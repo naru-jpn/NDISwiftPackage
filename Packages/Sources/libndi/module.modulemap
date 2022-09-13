@@ -1,0 +1,5 @@
+module libndi {
+    umbrella header "/Library/NDI SDK for Apple/include/Processing.NDI.Lib.h"
+    link "ndi_ios"
+    export *
+}
