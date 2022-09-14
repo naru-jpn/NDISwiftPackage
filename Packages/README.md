@@ -1,3 +1,3 @@
 # NDI
 
-A description of this package.
+Local packages for NDI.
