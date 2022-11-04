@@ -3,7 +3,7 @@ Sample project with local swift package linked NDI SDK.
 
 ## Preparation
 
-1. Install NDA SDK
+1. Install NDA SDK on your mac.
 
 [Software Developer Kit](https://ndi.tv/sdk/#download)
 
