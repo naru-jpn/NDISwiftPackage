@@ -21,3 +21,4 @@ Libs: -L${NDI_SDK_ROOT}/lib/iOS -lndi_ios
 
 ## References
 - [stackoverflow - Link to fat Static Library inside Swift Package](https://stackoverflow.com/questions/70557329/link-to-fat-static-library-inside-swift-package)
+- [pkgConfig を書いて NDI SDK（fat static library） をパッケージとしてアプリに組み込む](https://qiita.com/naru-jpn/items/3214e8b251b05127cced)
